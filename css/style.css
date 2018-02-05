@@ -1,0 +1,184 @@
+<<<<<<< HEAD
+body
+{
+    min-width: 350px;
+    margin: 0;
+    padding: 0;
+    font-family: 'Open Sans Bold';
+}
+
+header
+{
+    height: 790px;
+
+    background: url(../img/banner.jpg) no-repeat center;
+}
+
+.wrapper
+{
+    max-width: 1170px;
+    margin: 0 auto;
+}
+
+.nav-bg-1
+{
+    background-color: rgba(255, 255, 255, .8);
+}
+
+.nav-menu
+{
+    display: -webkit-flex;
+    display:    -moz-flex;
+    display:     -ms-flex;
+    display:      -o-flex;
+    display:         flex;
+
+    height: 92px;
+    padding-right: 20px;
+    padding-left: 20px;
+}
+
+.nav-menu .logo
+{
+    margin-top: 30px;
+}
+
+.nav-menu ul
+{
+    list-style: none;
+    margin-top: 20px;
+}
+
+.nav-menu ul li
+{
+    display: inline-block;
+
+    margin-right: 20px;
+}
+
+.nav-menu ul li a
+{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 12px;
+    font-weight: bold;
+
+    display: block;
+
+    padding-top: 17px;
+    padding-bottom: 17px;
+
+    text-decoration: none;
+    text-transform: uppercase;
+
+    color: #9daeb6;
+}
+
+.nav-menu ul li a:hover
+{
+    border-bottom: 2px solid #36aeea;
+}
+
+.call-us
+{
+    font-family: 'Raleway', sans-serif;
+    font-size: 12px;
+    font-weight: bold;
+    line-height: 40px;
+
+    display: block;
+
+    width: 147px;
+    height: 40px;
+    margin-top: 25px;
+    margin-left: 450px;
+
+    text-align: center;
+    text-decoration: none;
+    text-transform: uppercase;
+
+    color: #36aeea;
+    border: 3px solid #36aeea;
+    border-radius: 4px;
+}
+
+.nav-bg-2 {
+	background-color: #95a5ad;
+}
+
+.nav-menu.sub-menu
+{
+    margin-top: 560px;
+
+    
+}
+
+.nav-menu.sub-menu a
+{
+    color: #fff;
+}
+
+.nav-menu.sub-menu .call-us
+{
+    border: 3px solid #fff;
+}
+
+.gallery {
+    display: block;
+}
+.l1 {
+    display: inline-block;
+}
+.l2 {
+    display: inline-block;
+}
+.img {
+    margin: 30px;
+}
+.gallery-txt {
+    text-align: center;
+}
+.logos {
+    width: 100%;
+    height: 180px;
+    background: #f8f9fa;
+    text-align: center;
+}
+.logos_png {
+    margin: 60px;
+}
+.comments {
+}
+.comments_h1 {
+    text-align: center;
+}
+.comment-block {
+
+}
+.comment-block1 {
+    width: 540px;
+    height: 165px;
+    display: inline-block;
+    margin-right: 10px;
+}
+.comment-block2 {
+    width: 540px;
+    height: 165px;
+    display: inline-block;
+    margin-left: 10px;
+}
+.comment-p {
+    color: #bcbcbc;
+}
+.p1 {
+    
+}
+.p1 p {
+    display: inline-block;
+    vertical-align: top;
+    color: #90c8ea;
+}
+.p1 img {
+
+}
+
+
